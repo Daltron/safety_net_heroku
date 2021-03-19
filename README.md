@@ -8,6 +8,14 @@ gem 'safety_net_heroku'
 
 ## Usage
 
+Add this buildpack to your Heroku setup: `http://github.com/uhray/heroku-buildpack-mongo.git`
+
+Ensure this environment variable is set within Heroku: 
+
+```ruby
+ENV['DB_URI_NO_OPTIONS']
+```
+
 Create a new Safety Net Heroku initializer:
 
 ```ruby
