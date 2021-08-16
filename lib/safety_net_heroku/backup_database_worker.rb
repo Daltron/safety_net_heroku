@@ -1,3 +1,5 @@
+require 'sidekiq/web'
+
 module SafetyNetHeroku
   class BackupDatabaseWorker
     include Sidekiq::Worker
