@@ -1,4 +1,5 @@
 require 'sidekiq/web'
+require 'aws-sdk-s3'
 
 module SafetyNetHeroku
   class BackupDatabaseWorker
