@@ -11,14 +11,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-eventstream (v1.1.1, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-partitions (v1.487.0, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-core (v3.119.0, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-kms (v1.46.0, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-s3 (v1.48.0, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-sigv4 (v1.2.4, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, rbenv: 2.6.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jmespath (v1.4.0, rbenv: 2.6.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.2, rbenv: 2.6.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, rbenv: 2.6.1) [gem]" level="application" />
   </component>
   <component name="RakeTasksCache">
     <option name="myRootTask">
