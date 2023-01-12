@@ -7,6 +7,7 @@ gem 'safety_net_heroku'
 ```
 
 #### NOTE: Does not currently work with the Heroku 22 Stack as MongoDB has not released a compatible version
+https://jira.mongodb.org/browse/SERVER-62300
 
 ## Usage
 
