@@ -1,3 +1,6 @@
+#### 🎉 Works with the Heroku 22 Stack! 🎉
+
+
 A simple gem for backing up a MongoDB database to AWS when hosted on Heroku using a Sidekiq worker.
 
 ## Installation
@@ -6,12 +9,9 @@ A simple gem for backing up a MongoDB database to AWS when hosted on Heroku usin
 gem 'safety_net_heroku'
 ```
 
-#### NOTE: Does not currently work with the Heroku 22 Stack as MongoDB has not released a compatible version
-https://jira.mongodb.org/browse/SERVER-62300
-
 ## Usage
 
-Add this buildpack to your Heroku setup: `http://github.com/uhray/heroku-buildpack-mongo.git`
+Add this buildpack to your Heroku setup: `https://github.com/Daltron/heroku-buildpack-mongo-database-tools`
 
 Ensure this environment variable is set within Heroku: 
 
